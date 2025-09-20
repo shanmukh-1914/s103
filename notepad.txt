@@ -1,3 +1,0 @@
-add
-subtract
-select
